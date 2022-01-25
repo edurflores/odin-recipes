@@ -1,0 +1,21 @@
+
+h1 {
+    color: red;
+    font-family: Cambria, 'Times New Roman', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#sora {
+    height: auto;
+    width: 800px;
+}
+
+#lista {
+    font-weight: bold;
+}
+
+.odinlink {
+    text-align: center;
+}
